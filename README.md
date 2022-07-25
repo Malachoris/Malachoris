@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Malachoris
-- 👀 I’m interested in Play and Earn, tokenomics, NFT, blockchain, trading, ETH|BTC|SOL|ADA|DOT|HNT|XRD|WEYU, DOA guilds, yielding, staking, building business, building culture.
-- 🌱 I’m currently learning and trying making sense of blockchain, NFT's, DOAs, human rights, UBI. 
-- 💞️ I’m looking to collaborate on play to earn, DOA's, universal basic income(equity), human rights + blockchain projects.
+- 👀 I have lots of interests although focusing on software engineering.
+- 🌱 I’m currently learning JAVA. 
+- 💞️ I’m looking to collaborate on projects that enables human's freedom and peace (BTC, psilocybin, neuroscience, brain enhancement, Universal Basic Income, sustainability, CRISPR, symbiosis with AI).
 - 📫 How to reach me smicys.lukas@gmail.com
 
 <!---
