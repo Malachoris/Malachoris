@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Malachoris
 - 👀 I have lots of interests although focusing on software engineering.
-- 🌱 I’m currently learning JAVA. 
+- 🌱 I’m currently learning Python & JAVA. 
 - 💞️ I’m looking to collaborate on projects that enables human's freedom and peace (BTC, psilocybin, neuroscience, brain enhancement, CRISPR, symbiosis with AI).
 - 📫 How to reach me smicys.lukas@gmail.com
 
